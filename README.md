@@ -14,7 +14,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarioh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hillarioh's GitHub Stats" />
 </a>
 
-<p align="center">
+<p align="center" class="my-2">
   <span align="center" class="d-flex">
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
     <img title="CSS" alt="CSS" height=40
@@ -37,7 +37,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   </span>
 </p>
 
-<p align="center">
-![profile](https://komarev.com/ghpvc/?username=hillarioh)
+<p align="center" >
+  
+​![profile](https://komarev.com/ghpvc/?username=hillarioh)
 </p>
 
