@@ -4,7 +4,7 @@
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=hillarioh&show_icons=true&theme=radical" />
+![Hillary's GitHub stats](https://github-readme-stats.vercel.app/api?username=hillarioh&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
