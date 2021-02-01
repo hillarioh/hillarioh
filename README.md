@@ -11,9 +11,6 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <a href="https://github.com/hillarioh/hillarioh">
   <img align="center" src='https://github-readme-stats.vercel.app/api/top-langs/?username=hillarioh&layout=compact&show_icons=true&theme=great-gatsby' alt='Top Langs'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hillarioh&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/hillarioh/hillarioh">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hillarioh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Hillarioh's GitHub Stats" />
 </a>
 
@@ -40,6 +37,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   </span>
 </p>
 
-
+<p align="center">
 ![profile](https://komarev.com/ghpvc/?username=hillarioh)
+</p>
 
